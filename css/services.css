@@ -1,0 +1,23 @@
+
+
+.container {
+	background-color: orange;
+}
+/*.services{
+	margin: 90px auto;
+	text-align: center;*/
+}
+
+h1{
+	font-family: sans-serif;
+	letter-spacing: 1px;
+}
+
+h1: after{
+	content: '';
+	background: white;
+	display: block;
+	width: 150px;
+	height: 3px;
+	margin: 10px auto;
+}
