@@ -77,3 +77,12 @@ header{
 	background-color: #fff;
 	color: #000;
 }
+
+#intro{
+	color: white;
+	position: absolute;
+	top: 25%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+	font-size: 25px;
+}
